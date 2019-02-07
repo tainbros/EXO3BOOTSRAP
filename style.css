@@ -1,0 +1,79 @@
+
+
+h1{
+	color:lightblue;
+
+}
+
+.carousel{
+	height:80vh;
+}
+
+.carousel img{
+
+	object-fit: cover;
+}
+
+.carousel-item img{
+	object-fit: cover;
+}
+
+.col-md img{
+	height:40vh;
+	object-fit: cover;
+}
+
+h2{
+	color:blue;
+	text-shadow:2px 2px 8px black;
+}
+
+h3{
+	color:gold;
+}
+}
+
+.section2 img{
+	height:30vh;
+	width: 100%
+}
+
+.section3 p{
+	text-align: center;
+	color:white;
+}
+
+.section2 p{
+	text-align: justify;
+}
+
+.section2{
+	padding:11px;
+}
+.section2 p{
+	color:white;
+}
+
+body{
+background-image: linear-gradient(to bottom, #cade0e, #ff9300, #ff1d4e, #e1009d, #1a34d9);  
+}
+
+button{
+	color:grey;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color:orange;
+}
+
+.navbar-light .navbar-brand {
+    color:purple;
+}
+
+
+
+
+
+
+
+
